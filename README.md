@@ -1,8 +1,25 @@
-# React + Vite
+# MERN Friend App Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of the MERN Friend App, a full-stack web application for user authentication, friend management, and friend recommendations. The frontend is built using **React.js** and styled with **Tailwind CSS**. It interacts with the backend APIs created as part of the same project.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **User Authentication:**
+  - Sign up and log in using a secure token-based system.
+- **Dashboard:**
+  - View the list of friends and friend recommendations.
+- **Add Friend:**
+  - Search for users and send friend requests.
+
+---
+
+## Built With
+
+- [React.js](https://reactjs.org/) - Frontend framework for building the UI.
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for styling.
+- [Axios](https://axios-http.com/) - HTTP client for API requests.
+- [React Router](https://reactrouter.com/) - For client-side routing.
+
+---
